@@ -6,7 +6,7 @@ Ao longo da minha trajetória, venho trabalhando na construção de pipelines de
 
 ## 🚀 O que você vai encontrar aqui
 
-Este repositório reúne projetos que refletem minha forma de trabalhar com dados:
+Este repositório reúne projetos pessoais para composição de portifólio que refletem minha forma de trabalhar com dados:
 
 * 📊 Análises exploratórias e preditivas
 * 🏗️ Estruturação de pipelines e transformação de dados
@@ -20,7 +20,7 @@ Mais do que código, busco demonstrar **raciocínio, estrutura e clareza na reso
 * Python (Pandas, PySpark, Scikit-learn)
 * SQL (modelagem, otimização e análise)
 * Databricks & arquitetura Lakehouse
-* Cloud (Azure | explorando AWS)
+* Cloud (Azure | GCP | estudando (muito) AWS)
 * Ferramentas de BI e análise de dados
 
 ## 🤖 IA como aliada
