@@ -23,6 +23,10 @@ Mais do que código, busco demonstrar **raciocínio, estrutura e clareza na reso
 * Cloud (Azure | GCP | estudando (muito) AWS)
 * Ferramentas de BI e análise de dados
 
+<p>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />     
+</p>
+
 ## 🤖 IA como aliada
 
 Utilizo Inteligência Artificial no meu dia a dia para acelerar desenvolvimento, melhorar qualidade de código e otimizar análises — sempre com foco em produtividade e eficiência, sem abrir mão do pensamento crítico.
