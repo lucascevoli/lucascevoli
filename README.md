@@ -11,49 +11,46 @@
 </p>
 
 
-# 👋 Olá, eu sou o Lucas!
+# 👋 Hi, I'm Lucas!
 
-Sou um profissional de dados com atuação em **Data & Analytics Engineering**, focado em conectar engenharia de dados, análise e contexto de negócio para gerar impacto real.
+I'm a data professional working in **Data & Analytics Engineering**, focused on connecting data engineering, analysis, and business context to generate real impact.
 
-Ao longo da minha trajetória, venho trabalhando na construção de pipelines de dados, estruturação de ambientes analíticos e desenvolvimento de soluções que vão além da simples transformação de dados — meu objetivo é tornar os dados realmente úteis para tomada de decisão.
+Throughout my career, I've worked on building data pipelines, structuring analytical environments, and developing solutions that go beyond simple data transformation—my goal is to make data truly useful for decision-making.
 
-## 🚀 O que você vai encontrar aqui
+## 🚀 What you'll find here
 
-Este repositório reúne projetos pessoais para composição de portifólio que refletem minha forma de trabalhar com dados:
+This repository brings together personal projects for portfolio building that reflect my way of working with data:
 
-* 📊 Análises exploratórias e preditivas
-* 🏗️ Estruturação de pipelines e transformação de dados
-* 🧠 Aplicação de modelos analíticos e estatísticos
-* ⚙️ Boas práticas de organização, reprodutibilidade e escalabilidade
+* 📊 Exploratory and predictive analytics
+* 🏗️ Pipeline structuring and data transformation
+* 🧠 Application of analytical and statistical models
+* ⚙️ Best practices for organization, reproducibility, and scalability
 
-Mais do que código, busco demonstrar **raciocínio, estrutura e clareza na resolução de problemas**.
+More than just code, I seek to demonstrate **reasoning, structure, and clarity in problem-solving**.
 
-## 🧰 Stack principal
+## 🧰 Main Stack
 
 * Python (Pandas, PySpark, Scikit-learn)
-* SQL (modelagem, otimização e análise)
-* Databricks & arquitetura Lakehouse
-* Cloud (Azure | GCP | estudando (muito) AWS)
-* Ferramentas de BI e análise de dados
+* SQL (modeling, optimization, and analysis)
+* Databricks & Lakehouse architecture
+* Cloud (Azure | GCP | studying (heavily) AWS)
+* BI and data analysis tools
 
+## 🤖 AI as an ally
 
-## 🤖 IA como aliada
+I use Artificial Intelligence in my daily work to accelerate development, improve code quality, and optimize analyses — always focusing on productivity and efficiency, without sacrificing critical thinking.
 
-Utilizo Inteligência Artificial no meu dia a dia para acelerar desenvolvimento, melhorar qualidade de código e otimizar análises — sempre com foco em produtividade e eficiência, sem abrir mão do pensamento crítico.
+## 🧠 How I think about data
 
-## 🧠 Como eu penso dados
+I believe that working with data goes beyond technology. For me, it involves:
 
-Acredito que trabalhar com dados vai além de tecnologia. Para mim, envolve:
+* Understanding the problem before writing code
+* Structuring data with quality and governance
+* Creating sustainable and scalable solutions
+* Translating data into something that truly generates value
 
-* Entender o problema antes de escrever código
-* Estruturar dados com qualidade e governança
-* Criar soluções que sejam sustentáveis e escaláveis
-* Traduzir dados em algo que realmente gere valor
+## 📌 Currently
 
-## 📌 Atualmente
+Working as a **Data & Analytics Engineer**, focusing on continuous evolution in data architecture, engineering, and more robust analytical applications. ---
 
-Atuando como **Data & Analytics Engineer**, com foco em evolução contínua em arquitetura de dados, engenharia e aplicações analíticas mais robustas.
-
----
-
-Se quiser trocar uma ideia sobre dados, engenharia ou projetos, fique à vontade para conectar 🙂
+If you'd like to exchange ideas about data, engineering, or projects, feel free to connect 🙂
