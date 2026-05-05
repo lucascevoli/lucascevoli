@@ -36,6 +36,26 @@ More than just code, I seek to demonstrate **reasoning, structure, and clarity i
 * Cloud (Azure | GCP | studying (heavily) AWS)
 * BI and data analysis tools
 
+## 📂 Featured Projects
+
+Here are some projects that reflect my work in Data & Analytics Engineering and Machine Learning:
+
+### 📊 Predictive Analytics — Football Matches
+Machine learning model for predicting results and goal ranges based on recent team performance.
+
+➡️ https://github.com/lucascevoli/predictive-analytics-football
+
+### 🚧Further Projects (still under development)🚧
+>### 🏗️ Lakehouse Medallion Architecture (Databricks)
+>Structured data pipeline in Medallion architecture, with API ingestion and multi-layered processing.
+>
+>➡️ (link)
+>
+>### ⚡ Streaming Data Pipeline (AWS)
+>Real-time data architecture using AWS services for data ingestion, processing, and delivery.
+>
+>➡️ (link)
+
 ## 🤖 AI as an ally
 
 I use Artificial Intelligence in my daily work to accelerate development, improve code quality, and optimize analyses — always focusing on productivity and efficiency, without sacrificing critical thinking.
@@ -51,6 +71,5 @@ I believe that working with data goes beyond technology. For me, it involves:
 
 ## 📌 Currently
 
-Working as a **Data & Analytics Engineer**, focusing on continuous evolution in data architecture, engineering, and more robust analytical applications. ---
-
+Working as a **Data & Analytics Engineer**, focusing on continuous evolution in data architecture, engineering, and more robust analytical applications.
 If you'd like to exchange ideas about data, engineering, or projects, feel free to connect 🙂
