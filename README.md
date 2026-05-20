@@ -10,57 +10,36 @@
   <img src="https://cdn.brandfetch.io/idsWBrtc_i/theme/dark/idtAoLsWe7.svg?c=1bxid64Mup7aczewSAYMX&t=1759146036018" width="50"/>    
 </p>
 
+## Hey, I'm Lucas!
 
-# 👋 Hi, I'm Lucas!
-
-I'm a data professional working in **Data & Analytics Engineering**, focused on connecting data engineering, analysis, and business context to generate real impact.
+I'm a Data professional working in **Data & Analytics Engineering**, focused on connecting data engineering, analysis, and business context to generate real impact.
 
 Throughout my career, I've worked on building data pipelines, structuring analytical environments, and developing solutions that go beyond simple data transformation—my goal is to make data truly useful for decision-making.
 
-## 🚀 What you'll find here
-
-This repository brings together personal projects for portfolio building that reflect my way of working with data:
-
-* 📊 Exploratory and predictive analytics
-* 🏗️ Pipeline structuring and data transformation
-* 🧠 Application of analytical and statistical models
-* ⚙️ Best practices for organization, reproducibility, and scalability
-
 More than just code, I seek to demonstrate **reasoning, structure, and clarity in problem-solving**.
 
-## 🧰 Main Stack
+## Main Stack
 
 * Python (Pandas, PySpark, Scikit-learn)
 * SQL (modeling, optimization, and analysis)
 * Databricks & Lakehouse architecture
-* Cloud (Azure | GCP | studying (heavily) AWS)
+* Cloud (Azure | GCP | AWS)
 * BI and data analysis tools
 
-## 📂 Featured Projects
+## Featured Projects
 
 Here are some projects that reflect my work in Data & Analytics Engineering and Machine Learning:
 
-### 📊 Predictive Analytics — Football Matches
+### ⚽ Predictive Analytics — Football Matches
 Machine learning model for predicting results and goal ranges based on recent team performance.
 
-➡️ https://github.com/lucascevoli/predictive-analytics-football
+Link: <https://github.com/lucascevoli/predictive-analytics-football>
 
-### 🚧Further Projects (still under development)🚧
->### 🏗️ Lakehouse Medallion Architecture (Databricks)
->Structured data pipeline in Medallion architecture, with API ingestion and multi-layered processing.
->
->➡️ (link)
->
->### ⚡ Streaming Data Pipeline (AWS)
->Real-time data architecture using AWS services for data ingestion, processing, and delivery.
->
->➡️ (link)
-
-## 🤖 AI as an ally
+## AI as an ally
 
 I use Artificial Intelligence in my daily work to accelerate development, improve code quality, and optimize analyses — always focusing on productivity and efficiency, without sacrificing critical thinking.
 
-## 🧠 How I think about data
+## How I think about data
 
 I believe that working with data goes beyond technology. For me, it involves:
 
@@ -69,7 +48,3 @@ I believe that working with data goes beyond technology. For me, it involves:
 * Creating sustainable and scalable solutions
 * Translating data into something that truly generates value
 
-## 📌 Currently
-
-Working as a **Data & Analytics Engineer**, focusing on continuous evolution in data architecture, engineering, and more robust analytical applications.
-If you'd like to exchange ideas about data, engineering, or projects, feel free to connect 🙂
